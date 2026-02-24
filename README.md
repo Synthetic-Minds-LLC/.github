@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://synthminds.work/favicon.svg" alt="Synthetic Minds" width="80" />
+<img src="assets/logo.png" alt="Synthetic Minds" width="80" />
 
 # Synthetic Minds
 
